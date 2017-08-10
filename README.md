@@ -1,4 +1,4 @@
-# NMSeleniumTest. Instructions to run Selenium Test on local PC.
+# NMSeleniumTest. Instructions to run Selenium Test on local PC.<br/>
 The test will execute on Firefox browser.
 Install Eclipse to local PC and add Selenium Jar file "selenium-server-standalone-3.4.0" .
 Install Geckodriver executable file to local PC (to be compatible with firefox browser). 
